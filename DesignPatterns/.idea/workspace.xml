@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f1b180c-b42b-4e4d-bb4e-9981f00ba3f0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9f1b180c-b42b-4e4d-bb4e-9981f00ba3f0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,16 +25,69 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/singleton/DBConnection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/payam/learn/designpatterns/creational/singleton/DBConnectionTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/factorymethod/Calculation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="75" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/factorymethod/Calculation1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+              <folding>
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/factorymethod/Calculation2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+              <folding>
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/factorymethod/CalculationFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/payam/learn/designpatterns/creational/singleton/DBConnectionTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/payam/learn/designpatterns/creational/factorymethod/CalculationFactoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="204">
+              <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -62,6 +112,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/singleton/DBConnection.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/payam/learn/designpatterns/creational/singleton/DBConnectionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/factorymethod/Calculation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/factorymethod/Calculation1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/factorymethod/Calculation2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/factorymethod/CalculationFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/payam/learn/designpatterns/creational/factorymethod/CalculationFactoryTest.java" />
       </list>
     </option>
   </component>
@@ -106,7 +161,55 @@
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+              <item name="factorymethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="creational" type="462c0819:PsiDirectoryNode" />
+              <item name="factorymethod" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -119,13 +222,22 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557148640823" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557150444291" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.payam.learn.designpatterns.creational.factorymethod" />
+      <recent name="com.payam.learn.designpatterns.creational.singleton" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -139,7 +251,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CalculationFactoryTest">
+    <configuration name="CalculationFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.payam.learn.designpatterns.creational.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.payam.learn.designpatterns.creational.factorymethod" />
+      <option name="MAIN_CLASS_NAME" value="com.payam.learn.designpatterns.creational.factorymethod.CalculationFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculationFactoryTest.createCalculator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.payam.learn.designpatterns.creational.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.payam.learn.designpatterns.creational.factorymethod" />
+      <option name="MAIN_CLASS_NAME" value="com.payam.learn.designpatterns.creational.factorymethod.CalculationFactoryTest" />
+      <option name="METHOD_NAME" value="createCalculator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DBConnectionTest.doSomthing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DesignPatterns" />
       <extension name="coverage">
@@ -158,6 +301,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CalculationFactoryTest" />
+        <item itemvalue="JUnit.CalculationFactoryTest.createCalculator" />
         <item itemvalue="JUnit.DBConnectionTest.doSomthing" />
       </list>
     </recent_temporary>
@@ -172,12 +317,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557147195680</updated>
-      <workItem from="1557147201003" duration="1426000" />
+      <workItem from="1557147201003" duration="3085000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="DBConnectionTest_doSomthing - 2019.05.06 at 17h 47m 15s.xml">
+      <configuration name="DBConnectionTest.doSomthing" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1426000" />
+    <option name="totallyTimeSpent" value="3085000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="876" extended-state="6" />
@@ -190,6 +340,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21208227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
@@ -197,7 +348,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -227,14 +378,57 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/singleton/DBConnection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/payam/learn/designpatterns/creational/singleton/DBConnectionTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/factorymethod/Calculation1.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/factorymethod/Calculation2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/factorymethod/Calculation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="75" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/factorymethod/CalculationFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/payam/learn/designpatterns/creational/factorymethod/CalculationFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
     </entry>
