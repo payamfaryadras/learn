@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f1b180c-b42b-4e4d-bb4e-9981f00ba3f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/App.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,34 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/abstractfactory/video/MP4Converter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/abstractfactory/video/AVIConverter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/abstractfactory/video/VideoType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/abstractfactory/utils/Converter.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -74,24 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/builder/SomeThing.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="444">
+            <state relative-caret-position="833">
               <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
-              <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
-                <element signature="e#195#196#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#417#418#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#698#699#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -99,31 +56,39 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/Shape.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="391">
               <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="12" />
               <folding>
-                <element signature="e#189#190#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#275#276#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#159#160#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/Rectangle.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/ShapeCache.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-              <folding>
-                <element signature="e#136#137#0" expanded="true" />
-                <element signature="e#172#173#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -174,6 +139,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/Shap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/Shape.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/ShapeCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/App.java" />
       </list>
     </option>
   </component>
@@ -196,6 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -273,13 +241,12 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557601487017" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557683156612" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
@@ -392,7 +359,9 @@
       <option name="presentableId" value="Default" />
       <updated>1557147195680</updated>
       <workItem from="1557147201003" duration="6722000" />
-      <workItem from="1557600199050" duration="1064000" />
+      <workItem from="1557600199050" duration="1357000" />
+      <workItem from="1557681375397" duration="620000" />
+      <workItem from="1558270661573" duration="598000" />
     </task>
     <servers />
   </component>
@@ -414,13 +383,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7786000" />
+    <option name="totallyTimeSpent" value="9297000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21558245" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22163388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -429,7 +398,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289689" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -593,6 +562,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://J:/film/centeral/Central.Intelligence.2016.WEBRip.HC.720p.FA.srt" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/abstractfactory/utils/Converter.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -615,52 +585,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/builder/SomeThing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
+        <state relative-caret-position="833">
           <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
-          <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#134#135#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#417#418#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="391">
           <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-          <folding>
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="85">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="12" />
           <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/ShapeCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
