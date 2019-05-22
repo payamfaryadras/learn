@@ -1,4 +1,4 @@
-package com.payam.learn.designpatterns.creational.adapter;
+package com.payam.learn.designpatterns.structural.bridge.adapter;
 
 public class EmployeeDtoAdapter extends Employee {
 

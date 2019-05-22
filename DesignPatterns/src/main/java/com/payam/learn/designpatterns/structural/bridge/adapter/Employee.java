@@ -1,4 +1,4 @@
-package com.payam.learn.designpatterns.creational.adapter;
+package com.payam.learn.designpatterns.structural.bridge.adapter;
 
 public class Employee {
     private String fullName;

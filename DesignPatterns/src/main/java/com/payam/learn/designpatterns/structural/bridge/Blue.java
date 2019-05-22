@@ -1,4 +1,4 @@
-package com.payam.learn.designpatterns.creational.bridge;
+package com.payam.learn.designpatterns.structural.bridge;
 
 public class Blue implements Color {
     @Override

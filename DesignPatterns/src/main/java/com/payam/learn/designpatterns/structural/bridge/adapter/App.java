@@ -1,4 +1,4 @@
-package com.payam.learn.designpatterns.creational.adapter;
+package com.payam.learn.designpatterns.structural.bridge.adapter;
 
 public class App {
     public static void main(String[] args) {
