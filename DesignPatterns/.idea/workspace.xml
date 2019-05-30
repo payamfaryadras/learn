@@ -348,7 +348,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App (1)">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.payam.learn.designpatterns.creational.prototype.App" />
       <module name="DesignPatterns" />
@@ -424,7 +424,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.App" />
         <item itemvalue="JUnit.CalculationFactoryTest" />
         <item itemvalue="JUnit.CalculationFactoryTest.createCalculator" />
