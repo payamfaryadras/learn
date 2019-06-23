@@ -2,28 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f1b180c-b42b-4e4d-bb4e-9981f00ba3f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Codility/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codility/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codility/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codility/src/main/java/com/payam/learn/codility/array/CyclicRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codility/src/main/java/com/payam/learn/codility/array/FindUnPaired.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codility/src/main/java/com/payam/learn/codility/contingelement/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codility/src/main/java/com/payam/learn/codility/contingelement/FrogRiverOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codility/src/main/java/com/payam/learn/codility/iterations/Asterisks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codility/src/main/java/com/payam/learn/codility/iterations/InversionTrinagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codility/src/main/java/com/payam/learn/codility/timecomplexity/FrogJmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Codility/src/main/java/com/payam/learn/codility/timecomplexity/PermMissingElem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/AbstractMessageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/DestinationType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/EmailMessageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/FaxMesssageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/MessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/SMSMessageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/proxy/Internet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/proxy/InternetProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/proxy/RealInternet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Codility/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Codility/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/AbstractMessageHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/AbstractMessageHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/EmailMessageHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/EmailMessageHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/FaxMesssageHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/FaxMessageHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/MessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/SMSMessageHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/SMSMessageHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/payam/learn/designpatterns/App.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -36,117 +24,95 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/proxy/Internet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="57" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/proxy/InternetProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/DestinationType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/Message.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/builder/SomeThing.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/AbstractMessageHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+            <state relative-caret-position="114">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <element signature="e#235#236#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="method#Message#0;class#Message#0" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#511#512#0" expanded="true" />
+                <element signature="e#539#540#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#902#903#0" expanded="true" />
+                <element signature="e#953#954#0" expanded="true" />
+                <element signature="method#value#0;class#MessageBuilder#0;class#Message#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/EmailMessageHandler.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/MessageService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+            <state relative-caret-position="173">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
               <folding>
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/SMSMessageHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-              <folding>
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#224#225#0" expanded="true" />
-                <element signature="e#281#282#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/FaxMesssageHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-              <folding>
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/MessageService.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/EmailMessageHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#373#374#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/FaxMessageHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/AbstractMessageHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#354#355#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/SMSMessageHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -181,13 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/abstractfactory/core/ConverterType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/abstractfactory/utils/ConverterType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/builder/SomeThing.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/Shap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/Shape.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/ShapeCache.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/adapter/Employee.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/adapter/EmployeeDAO.java" />
@@ -226,12 +185,19 @@
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/proxy/Internet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/proxy/InternetProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/DestinationType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/Message.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/AbstractMessageHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/EmailMessageHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/SMSMessageHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/FaxMesssageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/FaxMesssageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/FaxMessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/NoneMessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/AbstractMessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/App.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/Message.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/SMSMessageHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/MessageService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/EmailMessageHandler.java" />
       </list>
     </option>
   </component>
@@ -242,7 +208,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -254,6 +220,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -294,25 +262,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="creational" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
               <item name="structural" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -329,20 +278,29 @@
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="structural" type="462c0819:PsiDirectoryNode" />
+              <item name="chain" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560850907931" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561280824148" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
@@ -377,7 +335,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App (3)">
+  <component name="RunManager" selected="Application.App (4)">
     <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.payam.learn.designpatterns.structural.composite.App" />
       <module name="DesignPatterns" />
@@ -417,12 +375,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.payam.learn.designpatterns.creational.prototype.App" />
+    <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payam.learn.designpatterns.structural.chain.App" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.payam.learn.designpatterns.creational.prototype.*" />
+          <option name="PATTERN" value="com.payam.learn.designpatterns.structural.chain.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -458,11 +416,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (4)" />
         <item itemvalue="Application.App (3)" />
         <item itemvalue="Application.FlyweightDesignPattern" />
         <item itemvalue="Application.App (2)" />
         <item itemvalue="Application.App (1)" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -488,6 +446,7 @@
       <workItem from="1559646482577" duration="615000" />
       <workItem from="1559666233309" duration="599000" />
       <workItem from="1560847156631" duration="3065000" />
+      <workItem from="1561270953398" duration="3366000" />
     </task>
     <servers />
   </component>
@@ -509,13 +468,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29765000" />
+    <option name="totallyTimeSpent" value="33131000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25037822" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -524,8 +483,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39934534" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.39784947" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -552,27 +511,16 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/Message.java</url>
-          <line>6</line>
-          <properties class="com.payam.learn.designpatterns.structural.chain.Message" method="getDestinationType">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/MessageService.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/prototype/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/adapter/Employee.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/adapter/EmployeeDao.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/adapter/EmployeeDto.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/adapter/EmployeeDtoAdapter.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/adapter/App.java" />
@@ -814,10 +762,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/proxy/InternetProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="323">
           <caret line="22" column="49" selection-start-line="22" selection-start-column="49" selection-end-line="22" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
             <element signature="e#424#425#0" expanded="true" />
           </folding>
         </state>
@@ -832,72 +781,108 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/creational/builder/SomeThing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="357">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/Message.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/MessageBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/AbstractMessageHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/NoneMessageHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        <state relative-caret-position="187">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
           <folding>
-            <element signature="e#235#236#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/EmailMessageHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
-          <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/SMSMessageHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#224#225#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/FaxMesssageHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-          <folding>
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/MessageService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="173">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/AbstractMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#Message#0;class#Message#0" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#511#512#0" expanded="true" />
+            <element signature="e#539#540#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#902#903#0" expanded="true" />
+            <element signature="e#953#954#0" expanded="true" />
+            <element signature="method#value#0;class#MessageBuilder#0;class#Message#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/EmailMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/FaxMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/handler/SMSMessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/chain/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

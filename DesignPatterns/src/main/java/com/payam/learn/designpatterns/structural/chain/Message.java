@@ -1,15 +1,23 @@
 package com.payam.learn.designpatterns.structural.chain;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class Message {
-    private DestinationType destinationType;
+    private Map<DestinationType,String> dist;
     private String value;
 
-    public DestinationType getDestinationType() {
-        return destinationType;
+    public Message(Map<DestinationType, String> dist, String value) {
+        this.dist = dist;
+        this.value = value;
     }
 
-    public void setDestinationType(DestinationType destinationType) {
-        this.destinationType = destinationType;
+    public Map<DestinationType, String> getDist() {
+        return dist;
+    }
+
+    public void setDist(Map<DestinationType, String> dist) {
+        this.dist = dist;
     }
 
     public String getValue() {
@@ -20,27 +28,30 @@ public class Message {
         this.value = value;
     }
 
-    public static class Builder {
+    public static MessageBuilder getBuilder(){
+        return new MessageBuilder();
+    }
 
-        private DestinationType destinationType;
+    public static class MessageBuilder {
+        private Map<DestinationType, String> dist;
         private String value;
 
-        public Builder destinationType(DestinationType destinationType) {
-            this.destinationType = destinationType;
+        public MessageBuilder() {
+            this.dist = new HashMap<>();
+        }
+
+        public MessageBuilder addDist(DestinationType destinationType, String value) {
+            this.dist.put(destinationType,value);
             return this;
         }
 
-        public Builder value(String value) {
+        public MessageBuilder value(String value) {
             this.value = value;
             return this;
         }
 
-        public Message build() {
-            Message message = new Message();
-            message.setDestinationType(this.destinationType);
-            message.setValue(this.value);
-            return message;
+        public Message createMessage() {
+            return new Message(dist, value);
         }
     }
-
 }

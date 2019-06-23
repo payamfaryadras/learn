@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8c1a9a0-bb3c-429b-8e45-e6655fa99413" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/codility/array/CyclicRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/codility/array/FindUnPaired.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/codility/contingelement/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/codility/contingelement/FrogRiverOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/codility/iterations/Asterisks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/codility/iterations/InversionTrinagle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/codility/prefixsums/PassingCars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/codility/timecomplexity/FrogJmp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/codility/timecomplexity/PermMissingElem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/com/payam/learn/designpatterns/structural/chain/AbstractMessageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/com/payam/learn/designpatterns/structural/chain/DestinationType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/com/payam/learn/designpatterns/structural/chain/EmailMessageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/com/payam/learn/designpatterns/structural/chain/FaxMesssageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/com/payam/learn/designpatterns/structural/chain/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/com/payam/learn/designpatterns/structural/chain/MessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/com/payam/learn/designpatterns/structural/chain/SMSMessageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/com/payam/learn/designpatterns/structural/proxy/Internet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/com/payam/learn/designpatterns/structural/proxy/InternetProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DesignPatterns/src/main/java/com/payam/learn/designpatterns/structural/proxy/RealInternet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DesignPatterns/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b8c1a9a0-bb3c-429b-8e45-e6655fa99413" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,6 +69,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,8 +108,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -250,11 +226,12 @@
       <workItem from="1560781081127" duration="1435000" />
       <workItem from="1560847137475" duration="1224000" />
       <workItem from="1561212716234" duration="775000" />
+      <workItem from="1561270582162" duration="367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37008000" />
+    <option name="totallyTimeSpent" value="37375000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
