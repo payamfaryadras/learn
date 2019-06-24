@@ -1,4 +1,4 @@
-package com.payam.learn.designpatterns.structural.chain;
+package com.payam.learn.designpatterns.behavioral.chain;
 
 public class App {
     public static void main(String[] args) {

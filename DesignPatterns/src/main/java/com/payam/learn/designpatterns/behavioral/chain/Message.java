@@ -1,4 +1,4 @@
-package com.payam.learn.designpatterns.structural.chain;
+package com.payam.learn.designpatterns.behavioral.chain;
 
 import java.util.HashMap;
 import java.util.Map;

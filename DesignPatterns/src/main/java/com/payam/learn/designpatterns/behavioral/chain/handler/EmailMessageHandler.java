@@ -1,8 +1,8 @@
-package com.payam.learn.designpatterns.structural.chain.handler;
+package com.payam.learn.designpatterns.behavioral.chain.handler;
 
 
-import com.payam.learn.designpatterns.structural.chain.DestinationType;
-import com.payam.learn.designpatterns.structural.chain.Message;
+import com.payam.learn.designpatterns.behavioral.chain.DestinationType;
+import com.payam.learn.designpatterns.behavioral.chain.Message;
 
 public class EmailMessageHandler extends AbstractMessageHandler {
     public EmailMessageHandler(AbstractMessageHandler nextHandler) {

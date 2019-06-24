@@ -1,9 +1,9 @@
-package com.payam.learn.designpatterns.structural.chain;
+package com.payam.learn.designpatterns.behavioral.chain;
 
-import com.payam.learn.designpatterns.structural.chain.handler.AbstractMessageHandler;
-import com.payam.learn.designpatterns.structural.chain.handler.EmailMessageHandler;
-import com.payam.learn.designpatterns.structural.chain.handler.FaxMessageHandler;
-import com.payam.learn.designpatterns.structural.chain.handler.SMSMessageHandler;
+import com.payam.learn.designpatterns.behavioral.chain.handler.AbstractMessageHandler;
+import com.payam.learn.designpatterns.behavioral.chain.handler.EmailMessageHandler;
+import com.payam.learn.designpatterns.behavioral.chain.handler.FaxMessageHandler;
+import com.payam.learn.designpatterns.behavioral.chain.handler.SMSMessageHandler;
 
 public class MessageService {
     public static   void send(Message message){
