@@ -161,3 +161,7 @@ Qsrc/main/java/com/payam/learn/designpatterns/behavioral/interpreter/Variable.ja
 Msrc/main/java/com/payam/learn/designpatterns/behavioral/interpreter/Plus.java,3\0\30762b1d24f677b37b10ae7f4ac2386d0d4dbbd3
 |
 Lsrc/main/java/com/payam/learn/designpatterns/behavioral/interpreter/Num.java,e\5\e53443e33a5c2bd2ab13beb429ac0ad4174ad30a
+‡
+Wsrc/main/java/com/payam/learn/designpatterns/behavioral/iterator/FileContantReader.java,4\4\44d31d57ea0dfb4b7b9e999ee61dd20c13219e35
+|
+Lsrc/main/java/com/payam/learn/designpatterns/behavioral/iterator/Client.java,f\9\f9761e067cfc939fa497c8db15ff419374864a23
