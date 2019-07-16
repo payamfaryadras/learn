@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f1b180c-b42b-4e4d-bb4e-9981f00ba3f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/memento/JTextFieldMemento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/memento/JTextHistory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/memento/MainPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/Emailobserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/MessageSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/SMSobserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/Telegramobserver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,11 +19,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/memento/MainPanel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="175">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#717#1029#0" expanded="true" />
@@ -31,10 +33,70 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/MessageSubject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/Emailobserver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#250#251#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/SMSobserver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#322#323#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/Telegramobserver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#325#326#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/memento/JTextFieldMemento.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="241">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="e#161#162#0" expanded="true" />
                 <element signature="e#193#194#0" expanded="true" />
@@ -49,7 +111,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/memento/JTextHistory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+              <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#284#285#0" expanded="true" />
@@ -89,12 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/facade/CalculationFacade.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/FlyWeight/Pen.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/FlyWeight/Bird.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/FlyWeight/AngryBird.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/FlyWeight/BirdFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/FlyWeight/FlyweightDesignPattern.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/proxy/RealInternet.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/proxy/Internet.java" />
@@ -140,6 +196,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/memento/JTextHistory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/memento/MainPanel.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/memento/JTextFieldMemento.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/MessageSubject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/EmailServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/Emailobserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/SMSobserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/Telegramobserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/App.java" />
       </list>
     </option>
   </component>
@@ -215,7 +277,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="designpatterns" type="462c0819:PsiDirectoryNode" />
               <item name="behavioral" type="462c0819:PsiDirectoryNode" />
-              <item name="memento" type="462c0819:PsiDirectoryNode" />
+              <item name="observer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
@@ -233,7 +295,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563261087660" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563263778988" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
@@ -272,7 +334,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainPanel">
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payam.learn.designpatterns.behavioral.observer.App" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.payam.learn.designpatterns.behavioral.observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.payam.learn.designpatterns.behavioral.command.App" />
       <module name="DesignPatterns" />
@@ -312,19 +387,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlyweightDesignPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.payam.learn.designpatterns.structural.FlyWeight.FlyweightDesignPattern" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.payam.learn.designpatterns.structural.FlyWeight.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MainPanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.payam.learn.designpatterns.behavioral.memento.MainPanel" />
       <module name="DesignPatterns" />
@@ -340,10 +402,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (1)" />
         <item itemvalue="Application.MainPanel" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Client" />
-        <item itemvalue="Application.App (4)" />
         <item itemvalue="Application.App (4)" />
       </list>
     </recent_temporary>
@@ -377,7 +439,7 @@
       <workItem from="1563170658996" duration="9143000" />
       <workItem from="1563189578448" duration="9000" />
       <workItem from="1563206612841" duration="2577000" />
-      <workItem from="1563246908178" duration="6550000" />
+      <workItem from="1563246908178" duration="8180000" />
     </task>
     <servers />
   </component>
@@ -399,7 +461,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56298000" />
+    <option name="totallyTimeSpent" value="57928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -412,7 +474,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="PMD" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="PMD" weight="0.3289689" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.39770868" />
@@ -498,35 +560,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/decorator/Attribute.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/decorator/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="54" selection-start-line="9" selection-start-column="54" selection-end-line="9" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/App.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/facade/DiscountPremiumCalculationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/facade/TaxCalculationService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/structural/facade/CalculationFacade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -923,7 +956,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/memento/JTextHistory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#284#285#0" expanded="true" />
@@ -935,7 +968,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/memento/JTextFieldMemento.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#161#162#0" expanded="true" />
             <element signature="e#193#194#0" expanded="true" />
@@ -948,11 +981,61 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/memento/MainPanel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#717#1029#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/MessageSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/Emailobserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="6" selection-start-column="27" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/SMSobserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/Telegramobserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#325#326#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/observer/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
