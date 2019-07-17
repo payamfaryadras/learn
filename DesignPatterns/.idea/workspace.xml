@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f1b180c-b42b-4e4d-bb4e-9981f00ba3f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/strategy/HashStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/strategy/MD5Hash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/strategy/SHA256.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/strategy/SecureContent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/payam/learn/designpatterns/behavioral/strategy/SecureContentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/DesignPatterns-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/DesignPatterns.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-    </list>
+    <list default="true" id="9f1b180c-b42b-4e4d-bb4e-9981f00ba3f0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +15,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/strategy/SecureContent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+            <state relative-caret-position="106">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
               <folding>
                 <element signature="e#306#307#0" expanded="true" />
                 <element signature="e#351#352#0" expanded="true" />
@@ -63,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/payam/learn/designpatterns/behavioral/strategy/SecureContentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="36" column="49" lean-forward="true" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+            <state relative-caret-position="167">
+              <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -311,7 +298,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563349025182" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563349186238" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/bin/git.exe" />
@@ -476,23 +463,11 @@
       <workItem from="1563246908178" duration="8180000" />
       <workItem from="1563282677334" duration="596000" />
       <workItem from="1563301904858" duration="613000" />
-      <workItem from="1563336483293" duration="9621000" />
+      <workItem from="1563336483293" duration="9868000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SecureContentTest_CONTENT_HASH_BY_MD5 - 2019.07.17 at 11h 46m 29s.xml">
-      <configuration name="SecureContentTest.CONTENT_HASH_BY_MD5" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecureContentTest - 2019.07.17 at 11h 52m 08s.xml">
-      <configuration name="SecureContentTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecureContentTest - 2019.07.17 at 11h 52m 37s.xml">
-      <configuration name="SecureContentTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SecureContentTest - 2019.07.17 at 11h 55m 57s.xml">
-      <configuration name="SecureContentTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SecureContentTest - 2019.07.17 at 11h 56m 10s.xml">
       <configuration name="SecureContentTest" configurationId="JUnit" />
     </history-entry>
@@ -511,9 +486,21 @@
     <history-entry file="SecureContentTest_GET_ERROR_WHEN_CONTENT_IS_NULL - 2019.07.17 at 12h 05m 01s.xml">
       <configuration name="SecureContentTest.GET_ERROR_WHEN_CONTENT_IS_NULL" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SecureContentTest_GET_ERROR_WHEN_CONTENT_IS_NULL - 2019.07.17 at 12h 05m 47s.xml">
+      <configuration name="SecureContentTest.GET_ERROR_WHEN_CONTENT_IS_NULL" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecureContentTest_GET_ERROR_WHEN_CONTENT_IS_NULL - 2019.07.17 at 12h 06m 25s.xml">
+      <configuration name="SecureContentTest.GET_ERROR_WHEN_CONTENT_IS_NULL" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecureContentTest_GET_ERROR_WHEN_CONTENT_IS_NULL - 2019.07.17 at 12h 07m 01s.xml">
+      <configuration name="SecureContentTest.GET_ERROR_WHEN_CONTENT_IS_NULL" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecureContentTest_GET_ERROR_WHEN_CONTENT_IS_NULL - 2019.07.17 at 12h 07m 07s.xml">
+      <configuration name="SecureContentTest.GET_ERROR_WHEN_CONTENT_IS_NULL" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68758000" />
+    <option name="totallyTimeSpent" value="69005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1096,17 +1083,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/strategy/SecureContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/strategy/HashStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -1147,10 +1123,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/payam/learn/designpatterns/behavioral/strategy/SecureContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/payam/learn/designpatterns/behavioral/strategy/SecureContentTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="36" column="49" lean-forward="true" selection-start-line="36" selection-start-column="49" selection-end-line="36" selection-end-column="49" />
+        <state relative-caret-position="167">
+          <caret line="32" column="27" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="27" />
         </state>
       </provider>
     </entry>
