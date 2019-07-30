@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [30/Jul/2019:11:50:43 +0430] "GET /web-project-structure/hello HTTP/1.1" 200 13 http-bio-9000-exec-2 44
+0:0:0:0:0:0:0:1 - - [30/Jul/2019:11:50:50 +0430] "GET /web-project-structure/test HTTP/1.1" 200 12 http-bio-9000-exec-3 2
+0:0:0:0:0:0:0:1 - - [30/Jul/2019:11:51:44 +0430] "GET /web-project-structure/test HTTP/1.1" 200 12 http-bio-9000-exec-1 5868

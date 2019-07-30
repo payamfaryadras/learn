@@ -14,4 +14,7 @@
         <servlet-name>simpleServlet</servlet-name>
         <url-pattern>/hello</url-pattern>
     </servlet-mapping>
+    <listener>
+        <listener-class>com.payam.learn.web.listener.SimpleServletListener</listener-class>
+    </listener>
 </web-app>
