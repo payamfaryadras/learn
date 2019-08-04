@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [02/Aug/2019:07:13:17 -0400] "GET /web-project-structure HTTP/1.1" 302 - http-bio-9000-exec-1 0
+0:0:0:0:0:0:0:1 - - [02/Aug/2019:07:13:17 -0400] "GET /web-project-structure/ HTTP/1.1" 200 62 http-bio-9000-exec-3 461
+0:0:0:0:0:0:0:1 - - [02/Aug/2019:07:13:17 -0400] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9000-exec-4 0
+0:0:0:0:0:0:0:1 - - [02/Aug/2019:07:13:32 -0400] "GET /web-project-structure/hello HTTP/1.1" 200 12 http-bio-9000-exec-5 2
+0:0:0:0:0:0:0:1 - - [02/Aug/2019:07:13:38 -0400] "GET /web-project-structure/test HTTP/1.1" 200 11 http-bio-9000-exec-6 3
+0:0:0:0:0:0:0:1 - - [02/Aug/2019:07:13:46 -0400] "GET /web-project-structure/payam HTTP/1.1" 404 1005 http-bio-9000-exec-8 4

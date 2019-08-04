@@ -1,3 +1,7 @@
-com\payam\learn\web\listener\SimpleServletListener.class
-com\payam\learn\web\servlets\SecondServlet.class
-com\payam\learn\web\servlets\SimpleServlet.class
+com/payam/learn/web/listener/SimpleServletListener.class
+com/payam/learn/web/servlets/SecondServlet.class
+com/payam/learn/web/filters/Second.class
+com/payam/learn/web/filters/FirstFilter.class
+com/payam/learn/web/sample1/model/User.class
+com/payam/learn/web/sample1/servlet/UserServlet.class
+com/payam/learn/web/servlets/SimpleServlet.class

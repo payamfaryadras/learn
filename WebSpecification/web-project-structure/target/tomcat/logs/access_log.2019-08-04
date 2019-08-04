@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:05:54:08 -0400] "GET /web-project-structure/test HTTP/1.1" 200 - http-bio-9000-exec-1 36
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:05:54:08 -0400] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9000-exec-3 0
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:05:54:22 -0400] "GET /web-project-structure HTTP/1.1" 302 - http-bio-9000-exec-4 0
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:05:54:23 -0400] "GET /web-project-structure/ HTTP/1.1" 200 - http-bio-9000-exec-6 1
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:05:54:33 -0400] "GET /web-project-structure/test HTTP/1.1" 200 - http-bio-9000-exec-7 1
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:06:07:08 -0400] "GET /web-project-structure/test HTTP/1.1" 200 11 http-bio-9000-exec-1 22
+0:0:0:0:0:0:0:1 - - [04/Aug/2019:06:36:26 -0400] "GET /web-project-structure/userServlet HTTP/1.1" 200 109 http-bio-9000-exec-1 60

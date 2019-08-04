@@ -17,4 +17,13 @@
     <listener>
         <listener-class>com.payam.learn.web.listener.SimpleServletListener</listener-class>
     </listener>
+    <filter>
+        <filter-name>firstServlet</filter-name>
+        <filter-class>com.payam.learn.web.filters.FirstFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>firstServlet</filter-name>
+        <servlet-name>FirstServlet</servlet-name>
+        <url-pattern>/*</url-pattern>
+    </filter-mapping>
 </web-app>
