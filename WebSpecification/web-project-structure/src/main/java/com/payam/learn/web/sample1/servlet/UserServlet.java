@@ -18,9 +18,9 @@ public class UserServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         User user = new User();
-        user.setcDate(new Date());
-        user.setfName("Payam");
-        user.setlName("Faryadras");
+        user.setCreateDate(new Date());
+        user.setFirstName("Payam");
+        user.setLastName("Faryadras");
         user.setCreateBy("Payam");
         user.setId(new Long(10));
         Gson gson = new Gson();
