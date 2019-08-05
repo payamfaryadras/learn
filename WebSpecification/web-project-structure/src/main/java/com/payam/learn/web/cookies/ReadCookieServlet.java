@@ -13,7 +13,7 @@ public class ReadCookieServlet extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         for (Cookie reqCookie : req.getCookies()) {
-            System.out.println(reqCookie.toString());
+            System.out.println(reqCookie.getName());
         }
         ;
     }

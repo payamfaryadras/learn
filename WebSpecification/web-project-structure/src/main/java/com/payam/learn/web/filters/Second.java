@@ -4,7 +4,7 @@ import javax.servlet.*;
 import javax.servlet.annotation.WebFilter;
 import java.io.IOException;
 
-@WebFilter(description = "this is second filter",urlPatterns = "/*")
+@WebFilter(description = "this is second filter",urlPatterns = "/user")
 public class Second implements Filter{
 
 
