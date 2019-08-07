@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:01:43:44 -0400] "GET /web-project-structure/loginServlet HTTP/1.1" 200 542 http-bio-9000-exec-1 580
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:01:43:46 -0400] "GET /web-project-structure/loginServlet HTTP/1.1" 200 542 http-bio-9000-exec-3 4
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:01:43:46 -0400] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9000-exec-4 0
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:01:43:49 -0400] "GET /web-project-structure/loginServlet HTTP/1.1" 200 542 http-bio-9000-exec-5 7
+0:0:0:0:0:0:0:1 - - [07/Aug/2019:01:43:50 -0400] "POST /web-project-structure/loginServlet HTTP/1.1" 200 631 http-bio-9000-exec-6 308

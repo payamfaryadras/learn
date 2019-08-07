@@ -1,5 +1,7 @@
 package com.payam.learn.web.sample1.model;
 
+import org.hibernate.validator.constraints.NotEmpty;
+
 import java.util.Date;
 
 public class User {

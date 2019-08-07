@@ -7,12 +7,12 @@ import javax.servlet.http.HttpSession;
 import java.io.IOException;
 import java.net.http.HttpRequest;
 
-@WebFilter(urlPatterns = "/*")
+@WebFilter(urlPatterns = "/payam")
 public class AuthFilter implements Filter {
     @Override
     public void doFilter(ServletRequest servletRequest, ServletResponse servletResponse, FilterChain filterChain) throws IOException, ServletException {
-       HttpServletRequest request = (HttpServletRequest) servletRequest;
-        HttpSession session = request.getSession(false);
+      HttpServletRequest request = (HttpServletRequest) servletRequest;
+       /*  HttpSession session = request.getSession(false);
         boolean isLoggedIn = (session != null) && (session.getAttribute("userId") != null);
         String loginURI = request.getContextPath() + "/loginServlet";
 
@@ -27,8 +27,8 @@ public class AuthFilter implements Filter {
         }else {
             RequestDispatcher dispatcher = request.getRequestDispatcher("login.jsp");
             dispatcher.forward(request,servletResponse);
-        }
-
+        }*/
+       filterChain.doFilter(servletRequest,servletResponse);
     }
 
     @Override

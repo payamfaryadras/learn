@@ -1,10 +1,28 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+         pageEncoding="ISO-8859-1" isELIgnored="false" %>
 <html>
 <body>
 <h2>login</h2>
-<form action="loginServlet" method="post">
-    Name:<input type="text" name="userName"><br>
-    Password:<input type="password" name="password"><br>
-    <input type="submit" value="login">
+${errors }
+<form method="post" action="${pageContext.request.contextPath }/loginServlet">
+    <table cellpadding="2" cellspacing="2">
+        <tr>
+            <td>Username</td>
+            <td><input type="text" name="username" value="${model.userName }"></td>
+        </tr>
+        <tr>
+            <td>Password</td>
+            <td><input type="password" name="password" value="${model.password }"></td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td><input type="submit" value="Save"></td>
+        </tr>
+    </table>
 </form>
+
+
+
+
 </body>
 </html>
