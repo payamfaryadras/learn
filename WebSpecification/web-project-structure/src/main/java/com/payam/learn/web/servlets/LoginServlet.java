@@ -12,12 +12,10 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
-import javax.validation.ConstraintViolation;
-import javax.validation.Validation;
-import javax.validation.Validator;
-import javax.validation.ValidatorFactory;
+import javax.validation.*;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.Locale;
 import java.util.Objects;
 import java.util.Set;
 
@@ -32,15 +30,19 @@ public class LoginServlet extends HttpServlet {
 
     @Override
     protected void doPost(HttpServletRequest request, HttpServletResponse resp) throws ServletException, IOException {
-
+        Locale.setDefault(Locale.US);
 
         LoginModel model = new LoginModel();
         model.setPassword(request.getParameter("password"));
         model.setUserName(request.getParameter("userName"));
 
-        ValidatorFactory validatorFactory = Validation.buildDefaultValidatorFactory();
-        Validator validator = validatorFactory.getValidator();
+        Locale.setDefault(Locale.US);
+        Configuration<?> config = Validation.byDefaultProvider().configure();
+        ValidatorFactory factory = config.buildValidatorFactory();
+        Validator validator = factory.getValidator();
+        factory.close();
         Set<ConstraintViolation<LoginModel>> constraintViolations = validator.validate(model);
+
         if (!constraintViolations.isEmpty()) {
             String errors = "<ul>";
             for (ConstraintViolation<LoginModel> constraintViolation : constraintViolations) {

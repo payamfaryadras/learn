@@ -5,7 +5,7 @@ import org.hibernate.validator.constraints.NotEmpty;
 public class LoginModel {
     private String userName;
     private String password;
-    @NotEmpty(message = "plz fill the userName ")
+    @NotEmpty(message = "{user.username.error}")
     public String getUserName() {
         return userName;
     }
@@ -13,7 +13,7 @@ public class LoginModel {
     public void setUserName(String userName) {
         this.userName = userName;
     }
-    @NotEmpty(message = "plz fill the password ")
+    @NotEmpty(message = "{user.password.error}")
     public String getPassword() {
         return password;
     }
