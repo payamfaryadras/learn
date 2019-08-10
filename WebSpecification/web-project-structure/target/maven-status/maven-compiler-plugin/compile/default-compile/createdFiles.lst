@@ -1,4 +1,5 @@
 com/payam/learn/web/cookies/CookieServlet.class
+com/payam/learn/web/async/AsyncServlet.class
 com/payam/learn/web/model/LoginModel.class
 com/payam/learn/web/servlets/SecondServlet.class
 com/payam/learn/web/sample1/model/User.class
@@ -9,4 +10,5 @@ com/payam/learn/web/filters/Second.class
 com/payam/learn/web/servlets/LoginServlet.class
 com/payam/learn/web/filters/FirstFilter.class
 com/payam/learn/web/filters/AuthFilter.class
+com/payam/learn/web/websockets/HelloWorldEndpoint.class
 com/payam/learn/web/cookies/ReadCookieServlet.class
