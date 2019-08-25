@@ -6,4 +6,6 @@ import java.util.List;
 
 public interface ActivityRepository {
     List<Activity> findAllActivites();
+
+    Activity findActivity(String activityId);
 }
