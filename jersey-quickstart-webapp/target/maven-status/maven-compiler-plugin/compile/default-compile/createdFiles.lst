@@ -1,6 +1,8 @@
-com/payam/learn/web/ws/rest/model/Activity.class
 com/payam/learn/web/ws/rest/model/User.class
 com/payam/learn/web/ws/rest/repository/ActivityRepositoryStub.class
-com/payam/learn/web/ws/rest/repository/ActivityRepository.class
 com/payam/learn/web/ws/rest/MyResource.class
 com/payam/learn/web/ws/rest/ActivityResource.class
+com/payam/learn/web/ws/rest/model/Activity.class
+com/payam/learn/web/ws/rest/client/ActivityClient.class
+com/payam/learn/web/ws/rest/repository/ActivityRepository.class
+com/payam/learn/web/ws/rest/client/ActivityClient$1.class
