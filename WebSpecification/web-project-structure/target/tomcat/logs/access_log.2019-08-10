@@ -1,6 +1,0 @@
-0:0:0:0:0:0:0:1 - - [10/Aug/2019:13:10:48 -0400] "GET /web-project-structure/websockets/web-socket-client.jsp HTTP/1.1" 200 1103 http-bio-9000-exec-1 456
-0:0:0:0:0:0:0:1 - - [10/Aug/2019:13:10:48 -0400] "GET /web-project-structure/hello HTTP/1.1" 200 12 http-bio-9000-exec-4 4
-0:0:0:0:0:0:0:1 - - [10/Aug/2019:13:10:57 -0400] "GET /web-project-structure/websockets/web-socket-client.jsp HTTP/1.1" 200 1103 http-bio-9000-exec-3 7
-0:0:0:0:0:0:0:1 - - [10/Aug/2019:13:10:57 -0400] "GET /web-project-structure/hello HTTP/1.1" 200 12 http-bio-9000-exec-8 3
-0:0:0:0:0:0:0:1 - - [10/Aug/2019:13:11:54 -0400] "GET /web-project-structure/websockets/web-socket-client.jsp HTTP/1.1" 200 1103 http-bio-9000-exec-7 2
-0:0:0:0:0:0:0:1 - - [10/Aug/2019:13:11:54 -0400] "GET /web-project-structure/hello HTTP/1.1" 200 12 http-bio-9000-exec-4 0
