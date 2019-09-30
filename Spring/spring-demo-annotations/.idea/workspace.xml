@@ -2,34 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2282fefe-fd39-4100-9d61-5d832565a573" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-demo-one.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/FortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/HappyFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/RandomService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/TennisCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationcontext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/sport.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/JavaConfigDemoApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/SpringConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/SwimPoolCoach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-demo-one/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-demo-one/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-demo-one/src/main/java/com/payam/learn/springdemo/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-demo-one/src/main/java/com/payam/learn/springdemo/TrackCoach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-demo-one/src/main/resources/applicationcontext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-demo-one/src/main/resources/applicationcontext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-demo-one/target/classes/applicationcontext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-demo-one/target/classes/applicationcontext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-demo-one/target/classes/com/payam/learn/springdemo/TrackCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-demo-one/target/classes/com/payam/learn/springdemo/TrackCoach.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-demo-one/target/classes/sport.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-demo-one/target/classes/sport.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +61,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.JavaConfigDemoApp">
+    <configuration name="JavaConfigDemoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.payam.learn.springdemo.JavaConfigDemoApp" />
+      <module name="spring-demo-one" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.payam.learn.springdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.payam.learn.springdemo.MainApp" />
       <module name="spring-demo-one" />
@@ -95,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaConfigDemoApp" />
         <item itemvalue="Application.MainApp" />
       </list>
     </recent_temporary>
@@ -109,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569837521053</updated>
-      <workItem from="1569837524109" duration="2173000" />
+      <workItem from="1569837524109" duration="3496000" />
     </task>
     <servers />
   </component>
