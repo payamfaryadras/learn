@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8cd1f332-12fb-4040-88c2-b1c3f1b7fc2a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-demo-one.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/BaseballCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/Coach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/CricketCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/FortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/HappyFortuneService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/SpringHello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/TrackCoach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/applicationcontext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/sport.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-demo-annotations/src/main/resources/sport.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/TrackCoach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/applicationcontext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationcontext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/applicationcontext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/applicationcontext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/payam/learn/springdemo/TrackCoach.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/payam/learn/springdemo/TrackCoach.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sport.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sport.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,12 +29,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1RXvhaNyUlu1pMhnyqBAbAgCgMq" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/target/classes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-demo-annotations/pom.xml" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -105,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569826374908</updated>
-      <workItem from="1569826378010" duration="6349000" />
+      <workItem from="1569826378010" duration="7746000" />
     </task>
     <servers />
   </component>
@@ -122,5 +112,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2282fefe-fd39-4100-9d61-5d832565a573" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/JavaConfigDemoApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/payam/learn/springdemo/SwimPoolCoach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-demo-one/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-demo-one/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-demo-one/src/main/java/com/payam/learn/springdemo/TrackCoach.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-demo-one/src/main/java/com/payam/learn/springdemo/TrackCoach.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Spring-demo-one/src/main/resources/applicationcontext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Spring-demo-one/src/main/resources/applicationcontext.xml" afterDir="false" />
@@ -47,7 +44,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../unit-testing/pom.xml" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,7 +102,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569837521053</updated>
-      <workItem from="1569837524109" duration="3496000" />
+      <workItem from="1569837524109" duration="4245000" />
+      <workItem from="1569905433700" duration="393000" />
+      <workItem from="1570361882033" duration="337000" />
     </task>
     <servers />
   </component>
@@ -117,7 +116,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
