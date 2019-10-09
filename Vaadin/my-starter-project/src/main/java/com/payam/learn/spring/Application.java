@@ -3,6 +3,7 @@ package com.payam.learn.spring;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
+import org.springframework.context.annotation.PropertySource;
 
 /**
  * The entry point of the Spring Boot application.
