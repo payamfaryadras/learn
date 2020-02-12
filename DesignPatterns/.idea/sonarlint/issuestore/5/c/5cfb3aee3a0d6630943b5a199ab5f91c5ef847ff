@@ -1,0 +1,3 @@
+
+"squid:ClassVariableVisibilityCheck"VMake linkedList a static final constant or non-public and provide accessors if needed.(è¸Ìıÿÿÿÿ8¸ÛÌ¿-
+™squid:S1319"vThe type of the "linkedList" object should be an interface such as "List" rather than the implementation "LinkedList".(è¸Ìıÿÿÿÿ8¸ÛÌ¿-

@@ -1,0 +1,10 @@
+/home/payam/Projects/learn/jersey-quickstart-webapp/src/main/java/com/payam/learn/web/ws/rest/client/ActivitySearchClient.java
+/home/payam/Projects/learn/jersey-quickstart-webapp/src/main/java/com/payam/learn/web/ws/rest/ActivitySearchResource.java
+/home/payam/Projects/learn/jersey-quickstart-webapp/src/main/java/com/payam/learn/web/ws/rest/client/ActivityClient.java
+/home/payam/Projects/learn/jersey-quickstart-webapp/src/main/java/com/payam/learn/web/ws/rest/MyResource.java
+/home/payam/Projects/learn/jersey-quickstart-webapp/src/main/java/com/payam/learn/web/ws/rest/repository/ActivityRepository.java
+/home/payam/Projects/learn/jersey-quickstart-webapp/src/main/java/com/payam/learn/web/ws/rest/model/Activity.java
+/home/payam/Projects/learn/jersey-quickstart-webapp/src/main/java/com/payam/learn/web/ws/rest/model/User.java
+/home/payam/Projects/learn/jersey-quickstart-webapp/src/main/java/com/payam/learn/web/ws/rest/ActivityResource.java
+/home/payam/Projects/learn/jersey-quickstart-webapp/src/main/java/com/payam/learn/web/ws/rest/repository/ActivityRepositoryStub.java
+/home/payam/Projects/learn/jersey-quickstart-webapp/src/main/java/com/payam/learn/web/ws/rest/model/ActivitySearch.java

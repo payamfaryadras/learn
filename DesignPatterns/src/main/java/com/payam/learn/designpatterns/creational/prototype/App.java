@@ -6,7 +6,7 @@ public class App {
         ShapeCache.loadCache();
 
 
-        Shape clonedShape3 = (Shape) ShapeCache.getShape(3);
+        Shape clonedShape3 = ShapeCache.getShape(3);
         System.out.println("Shape : " + clonedShape3.getType());
     }
 }

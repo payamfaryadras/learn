@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WebSpecification.iml" filepath="$PROJECT_DIR$/WebSpecification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-project-structure/web-project-structure.iml" filepath="$PROJECT_DIR$/web-project-structure/web-project-structure.iml" />
+    </modules>
+  </component>
+</project>
